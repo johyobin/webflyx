@@ -1,6 +1,7 @@
-cat <<EOL > filename.txt
-Line one of the content.
-Line two.
-Line three is the final line.
-EOL
+# Titles
 
+- A River Runs Through It
+- Fight Club
+- 12 Years a Slave
+- The Big Short
+- 12 Monkeys
